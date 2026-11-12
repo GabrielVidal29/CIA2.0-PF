@@ -1,0 +1,6 @@
+{
+  "name": "CIA 2.0 — UniCatólica",
+  "description": "Plataforma de autoatendimento e gestão de chamados do Centro Integrado de Atendimento ao Aluno (CIA) da UniCatólica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
